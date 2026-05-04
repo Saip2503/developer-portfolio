@@ -1,23 +1,38 @@
 export const skillsData = [
+  // Programming Languages
   'Java',
   'Python',
   'Kotlin',
+  'R',
+  'C',
+  // Frameworks & Platforms
   'Flutter',
   'FastAPI',
   'Android (Jetpack)',
+  // Databases
   'SQL',
   'MongoDB',
+  // Hardware Skills
+  'PCB Design',
+  'Circuit Design Simulation',
+  'Soldering Component Assembly',
+  'MATLAB',
+  'Proteus',
+  // Cloud & DevOps
   'Google Cloud Run',
   'Docker',
   'CI/CD',
   'Git',
+  // AI / ML
   'Machine Learning',
   'NLP',
   'Transformers',
   'RAG',
+  // Core CS
   'Data Structures & Algorithms',
   'OOP',
   'REST APIs',
+  // Soft Skills
   'Problem Solving',
   'Analytical Thinking',
   'Leadership',
