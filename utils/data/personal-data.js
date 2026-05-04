@@ -4,7 +4,7 @@ export const personalData = {
   name: "SAI PAWAR",
   profile: '/profile.png',
   designation: "Software Developer",
-  description: "My name is SAI PAWAR. I am a professional and enthusiastic programmer in my daily life. I am a quick learner with a self-learning attitude. I love to learn and explore new technologies and am passionate about problem-solving. I love almost all the stacks of mobile application development and love to make the app more open to the world. My core skill is based on Java and I love to do most of the things using JavaScript. I am available for any kind of job opportunity that suits my skills and interests.",
+  description: "Full-stack developer passionate about building scalable mobile and backend applications. Proficient in Java, Python, and Kotlin with expertise in FastAPI, Flutter, and cloud technologies. I specialize in machine learning, RAG systems, and enterprise-grade solutions. Quick learner with a problem-solving mindset, dedicated to crafting innovative applications and delivering business value. Open to opportunities that challenge and advance my technical expertise.",
   email: 'saipawar.2503@gmail.com',
   phone: '+91-8097019588',
   address: 'New Panvel, Maharashtra, India',
