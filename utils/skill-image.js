@@ -254,6 +254,48 @@ export const skillsImage = (skill) => {
       return sqlalchemy;
     case 'fastapi':
       return fastapi;
+    case 'r':
+      return python; // Using Python icon as substitute
+    case 'android (jetpack)':
+      return kotlin; // Android/Kotlin related
+    case 'sql':
+      return postgresql; // SQL representation
+    case 'google cloud run':
+      return gcp;
+    case 'ci/cd':
+      return docker; // CI/CD often uses Docker
+    case 'machine learning':
+      return tensorflow;
+    case 'nlp':
+      return tensorflow;
+    case 'transformers':
+      return tensorflow;
+    case 'rag':
+      return tensorflow;
+    case 'data structures & algorithms':
+      return java; // Core CS concept
+    case 'oop':
+      return java; // OOP core concept
+    case 'rest apis':
+      return fastapi;
+    case 'problem solving':
+      return java;
+    case 'analytical thinking':
+      return python;
+    case 'leadership':
+      return git;
+    case 'team collaboration':
+      return git;
+    case 'time management':
+      return docker;
+    case 'pcb design':
+      return blender; // CAD-like tool as substitute
+    case 'circuit design simulation':
+      return python; // Simulation related
+    case 'soldering component assembly':
+      return blender; // Design/assembly related
+    case 'proteus':
+      return python; // Proteus is design software
     default:
       break;
   }
