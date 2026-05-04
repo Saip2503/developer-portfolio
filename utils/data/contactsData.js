@@ -3,9 +3,9 @@ export const contactsData = {
     phone: '+91-8097019588',
     address: 'New Panvel, Maharashtra, India',
     github: 'https://github.com/Saip2503',
-    //facebook: 'https://www.facebook.com/abusaid.riyaz/',
+    facebook: '',
     linkedIn: 'https://www.linkedin.com/in/sai-pawar-2a19a732a',
-    //twitter: 'https://twitter.com/said7388',
+    twitter: '',
     stackOverflow: 'https://stackoverflow.com/users/30889375/sai-pawar',
     devUsername: "Saip2503"
 }
