@@ -9,7 +9,6 @@ export const personalData = {
   phone: '+91-8097019588',
   address: 'New Panvel, Maharashtra, India',
   github: 'https://github.com/Saip2503',
-  facebook: '',
   linkedIn: 'https://www.linkedin.com/in/sai-pawar-2a19a732a',
   Certification: 'https://drive.google.com/drive/folders/1DwzPXfgPZshgcyBRO8Um85uHjQSJkhc_?usp=drive_link',
   stackOverflow: 'https://stackoverflow.com/users/30889375/sai-pawar',

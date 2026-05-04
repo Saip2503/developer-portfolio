@@ -295,9 +295,7 @@ export const personalData = {
   phone: "+1234567890",
   address: "City, Country",
   github: "https://github.com/yourusername",
-  facebook: "https://www.facebook.com/yourprofile",
   linkedIn: "https://www.linkedin.com/in/yourprofile",
-  twitter: "https://twitter.com/yourusername",
   stackOverflow: "https://stackoverflow.com/users/your-id",
   leetcode: "https://leetcode.com/yourusername/",
   devUsername: "yourusername", // dev.to username for blog integration
